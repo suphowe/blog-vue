@@ -3,8 +3,8 @@
         <el-container>
             <el-header>
                 <router-link to="/blogs">
-                  <img src="https://www.markerhub.com/dist/images/logo/markerhub-logo.png"            
-             style="height: 60%; margin-top: 10px;">
+          <!--         <img src="https://www.markerhub.com/dist/images/logo/markerhub-logo.png"            
+             style="height: 60%; margin-top: 10px;"> -->
                   </router-link>
               </el-header>
             <el-main>
